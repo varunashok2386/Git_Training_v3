@@ -2,3 +2,4 @@ GIT Revert Commit 1
 
 This is Sample File 2 
 This is Comparison Lecture
+This is Stash Lecture, Change in SampleTestFile2.txt

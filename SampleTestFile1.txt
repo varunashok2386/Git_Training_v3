@@ -8,3 +8,4 @@ This is Sample File 1
 This is Comparison Lecture, Change in File2
 This is Comparison Lecture
 This is Comparison Lecture
+This is Stash Lecture, Change in SampleTestFile1.txt
