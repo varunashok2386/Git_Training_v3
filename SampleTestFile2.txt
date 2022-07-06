@@ -1,1 +1,4 @@
- This is Sample File 2 
+GIT Revert Commit 1
+
+This is Sample File 2 
+This is Comparison Lecture
